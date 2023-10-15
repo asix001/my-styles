@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://www.asadigital.net/img/main1.jpg');
+    background-image: url('main1.jpg'); /* Adjust the path to your image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -24,6 +24,7 @@ h1 {
 
 .swiper-wrapper {
     width: 300px;
+    text-align: center; /* Center text within the swiper */
 }
 
 .swiper-slide {
